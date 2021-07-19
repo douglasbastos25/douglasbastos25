@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Douglas Santos
-- 👀 I’m interested in Android, Literature, Cinema, and everything in between.
+- 👀 I’m interested in Android, Literature, Indie Games, Cinema, and everything in between.
 - 🌱 I’m currently learning Android focused on Kotlin and
 - 💞️ I’m looking to collaborate on projects from this area.
 - 📫 You can reach me through Linkedin: https://www.linkedin.com/in/douglassantosjr/
